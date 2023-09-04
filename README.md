@@ -24,7 +24,7 @@ Welcome to my personal portfolio website built with React.js and Next.js! This p
 
 ### Clone the Repository
 
-git clone https://github.com/your-username/portfolio-website.git
+git clone https://github.com/nitinsingh0219/nitin-react-portfolio.git
 cd portfolio-website
 
 ## Features
